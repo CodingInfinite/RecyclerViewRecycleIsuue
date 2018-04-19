@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">RecyclerViewIssueExample</string>
+    <string name="book_name">Book Name :</string>
+    <string name="want_to_read">Want to Read</string>
+</resources>
